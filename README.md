@@ -1,6 +1,7 @@
 # calculator-soklovskiy-
-Calculator
+
 ![image](https://user-images.githubusercontent.com/57685771/198343817-e3a937fb-99c1-4555-9c2f-27aa2f4d7fc7.png)
+
 Используется один класс Zero. 
 Ограничение для вводимых чисел не более 9 цифр проверяется в свойстве Num set класса Util.
 Первое записанное число ,а также и результат вычислений, записывается в верхнюю строку Num1. 
